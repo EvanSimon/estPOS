@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\estPOS\estPOS\bin\Debug\estPOS.exe.config
+C:\Users\Evans\source\repos\estPOS\estPOS\bin\Debug\estPOS.exe
+C:\Users\Evans\source\repos\estPOS\estPOS\bin\Debug\estPOS.pdb
+C:\Users\Evans\source\repos\estPOS\estPOS\obj\Debug\estPOS.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\estPOS\estPOS\obj\Debug\estPOS.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\estPOS\estPOS\obj\Debug\estPOS.exe
+C:\Users\Evans\source\repos\estPOS\estPOS\obj\Debug\estPOS.pdb
